@@ -56,8 +56,8 @@ class _MyAppState extends State<MyApp> {
                 firstNumber = double.parse(texttodispaly);
                 result = "";
                 operatortoperform = bottonValue; 
-             } catch (e) {
-               print("Please Enter First Number");
+             } catch (e) { 
+               print("Please Enter First Number hhh");
              }
     else if (bottonValue == "=") 
     {
