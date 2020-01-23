@@ -57,7 +57,6 @@ class _MyAppState extends State<MyApp> {
                 result = "";
                 operatortoperform = bottonValue; 
              } catch (e) { 
-               print("Please Enter First Number");
              }
     else if (bottonValue == "=") 
     {
